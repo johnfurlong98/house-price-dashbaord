@@ -1,0 +1,12 @@
+data/
+models/
+__pycache__/
+*.pyc
+.git/
+.cache/
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/arctictern.py
+.vscode/init_tasks.sh
+.vscode/uptime.sh
+.vscode/make_url.py
